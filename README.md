@@ -1,4 +1,4 @@
-* standford machine learning course *
+## **standford machine learning course**
 * * *
 
 - including some course pdf
